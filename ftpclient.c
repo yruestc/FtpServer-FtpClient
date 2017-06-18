@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: FTP_CLIENT.c 
-	> Author: 
-	> Mail: 
-	> Created Time: Sun 29 May 2016 11:47:03 AM CST
- ************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
